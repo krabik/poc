@@ -1,0 +1,24 @@
+git client:
+-Git Bash
+-Git shell
+-Git Extensions
+
+commands:
+
+git help
+
+git status
+
+git add filename.txt
+git commit
+git push
+
+git branch myfirstgitbranch
+
+git commit README
+git commit -m "add readme file"
+git push -u origin master
+git config --global push.default matching
+
+
+
