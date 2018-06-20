@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hello.World</id>
+    <version>1.0.0</version>
+    <authors>tomash</authors>
+    <owners>tomash</owners>
+    <projectUrl>https://github.com/krabik/poc.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample Hello World project</description>
+    <releaseNotes>Hello World project</releaseNotes>
+    <tags>stringlibrary</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata> 
+</package>
